@@ -1,0 +1,39 @@
+footer{
+    padding: 10px;
+    padding-left: 50px;
+    background-color: blue;
+    color: azure;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: azure;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover{
+background-color: black;
+}
+aside{
+    width: auto;
+    margin-top: 30px;
+    padding-left: 30px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: azure;
+}
+
+section,article{
+    width: 70%;
+}
